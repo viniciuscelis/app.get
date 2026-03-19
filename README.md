@@ -1,4 +1,4 @@
-# Método POST e GET com Postman e seervidor http
+# Método POST e GET com Postman e servidor http
 
 ## Método GET
 <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/4c2bf179-4891-4f06-b79d-97ae55822903" />
